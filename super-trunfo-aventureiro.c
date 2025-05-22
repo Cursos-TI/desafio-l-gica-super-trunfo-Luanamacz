@@ -3,8 +3,8 @@
 
 
 typedef struct {
-    char estado[30];
-    char codigo[10];
+    char estado[50];
+    char codigo[50];
     char nome[50];
     int populacao;
     float area;
