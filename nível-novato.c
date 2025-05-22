@@ -14,7 +14,6 @@ int main() {
     float PibPC1, PibPC2;
     float superpoder1, superpoder2;
 
-                    //A seguir dados da carta 1:
 
     printf("Carta 1:\n");
 
@@ -47,7 +46,6 @@ int main() {
 
     printf("\n");
 
-                  //A seguir dados da carta 2:
 
     printf("Carta2: \n");
 
@@ -80,7 +78,6 @@ int main() {
 
     printf("\n");
 
-                  //Exibição carta 1:
 
     printf("Carta 1: \n");
     printf("Estado: %s\n", Estado1);
@@ -95,7 +92,6 @@ int main() {
     printf("Superpoder: %.1f\n", superpoder1);
     
     printf("\n");
-                    //Exibição carta 2:
 
     printf("Carta 2: \n");
     printf("Estado: %s\n", Estado2);
